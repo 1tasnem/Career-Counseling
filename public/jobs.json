@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "logo": "https://cdn-icons-png.flaticon.com/512/1055/1055687.png",
+    "job_title": "Full Stack Web Developer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "Develop and maintain full-stack web applications using modern frameworks and best practices.",
+    "job_responsibility": "Build responsive UIs and robust backend services. Collaborate with cross-functional teams to ship features efficiently.",
+    "educational_requirements": "Bachelor's in CSE or related field.",
+    "experiences": "2-3 Years in web development.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+    "job_title": "UI/UX Developer",
+    "company_name": "Netflix",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "Design and implement engaging UI/UX interfaces for web and mobile applications.",
+    "job_responsibility": "Turn wireframes into interactive layouts. Optimize user journeys for performance and aesthetics.",
+    "educational_requirements": "Bachelor's in Design/CS or relevant field.",
+    "experiences": "2-3 years in UI/UX development.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://cdn-icons-png.flaticon.com/512/5968/5968292.png",
+    "job_title": "React.js Developer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "Build high-performance front-end components with React.js for web applications.",
+    "job_responsibility": "Implement pixel-perfect UIs, handle state management, and integrate APIs.",
+    "educational_requirements": "Bachelor's in CSE or similar.",
+    "experiences": "2-3 years of experience with React.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "https://cdn-icons-png.flaticon.com/512/919/919825.png",
+    "job_title": "Frontend Developer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "Build responsive user interfaces using HTML, CSS, JavaScript, and frameworks.",
+    "job_responsibility": "Collaborate with UI designers and backend teams to deliver optimized frontend solutions.",
+    "educational_requirements": "Bachelor's in Computer Science.",
+    "experiences": "2-3 years in frontend development.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://cdn-icons-png.flaticon.com/512/5968/5968322.png",
+    "job_title": "Node.js Developer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "Design and build scalable backend services using Node.js and Express.",
+    "job_responsibility": "Implement REST APIs, manage databases, and write unit tests.",
+    "educational_requirements": "Bachelor's in Software Engineering.",
+    "experiences": "2-3 years with Node.js backend systems.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://cdn-icons-png.flaticon.com/512/1051/1051277.png",
+    "job_title": "Frontend Engineer (Vue.js)",
+    "company_name": "Netflix",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "Build modern frontends using Vue.js and Vuex for dynamic web applications.",
+    "job_responsibility": "Develop reusable UI components and ensure cross-browser compatibility.",
+    "educational_requirements": "Bachelor’s in CS or related field.",
+    "experiences": "2-3 years with Vue.js.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 7,
+    "logo": "https://cdn-icons-png.flaticon.com/512/732/732212.png",
+    "job_title": "Cloud Backend Developer",
+    "company_name": "Amazon Web Services",
+    "remote_or_onsite": "Remote",
+    "location": "Sylhet, Bangladesh",
+    "job_type": "Part Time",
+    "salary": "80k-120k",
+    "job_description": "Design and implement cloud-native backends using AWS services (Lambda, DynamoDB, API Gateway).",
+    "job_responsibility": "Automate infrastructure, manage APIs, and ensure high availability.",
+    "educational_requirements": "Bachelor’s in Computer Science or related field.",
+    "experiences": "3-5 years in cloud/backend systems.",
+    "contact_information": {
+      "phone": "01760-11 22 33",
+      "email": "aws.jobs@gmail.com",
+      "address": "Sylhet Tower, Zindabazar, Sylhet, Bangladesh"
+    }
+  },
+  {
+    "id": 8,
+    "logo": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+    "job_title": "Machine Learning Engineer",
+    "company_name": "Microsoft",
+    "remote_or_onsite": "Remote",
+    "location": "Chattogram, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "120k-170k",
+    "job_description": "Build and deploy ML models using Python, TensorFlow, and Azure ML Studio.",
+    "job_responsibility": "Develop predictive models, optimize algorithms, and integrate AI into applications.",
+    "educational_requirements": "Master’s or PhD in ML/AI or related.",
+    "experiences": "5+ years in ML/AI domain.",
+    "contact_information": {
+      "phone": "01870-33 44 55",
+      "email": "careers@microsoft.com",
+      "address": "Sea View Complex, Agrabad, Chattogram, Bangladesh"
+    }
+  },
+  {
+    "id": 9,
+    "logo": "https://cdn-icons-png.flaticon.com/512/732/732221.png",
+    "job_title": "iOS Developer (Swift)",
+    "company_name": "Apple Inc.",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "Develop scalable iOS applications using Swift and SwiftUI.",
+    "job_responsibility": "Design app architecture, manage App Store deployment, and ensure UX performance.",
+    "educational_requirements": "Bachelor’s in CS or equivalent.",
+    "experiences": "3-4 years in iOS development.",
+    "contact_information": {
+      "phone": "01670-44 55 66",
+      "email": "jobs@apple.com",
+      "address": "Banani, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 10,
+    "logo": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+    "job_title": "UI Designer",
+    "company_name": "Adobe",
+    "remote_or_onsite": "Remote",
+    "location": "Barisal, Bangladesh",
+    "job_type": "Contract",
+    "salary": "60k-90k",
+    "job_description": "Design modern, elegant interfaces using Adobe XD, Figma, and Photoshop.",
+    "job_responsibility": "Work closely with frontend teams to implement and iterate design systems.",
+    "educational_requirements": "Diploma or Bachelor’s in UI Design.",
+    "experiences": "2-3 years of design experience.",
+    "contact_information": {
+      "phone": "01580-22 33 44",
+      "email": "hr@adobe.com",
+      "address": "Barisal IT Park, Barisal, Bangladesh"
+    }
+  },
+  {
+    "id": 11,
+    "logo": "https://cdn-icons-png.flaticon.com/512/919/919847.png",
+    "job_title": "Backend API Developer (Java)",
+    "company_name": "Spotify",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "110k-160k",
+    "job_description": "Develop RESTful APIs and backend systems using Java and Spring Boot.",
+    "job_responsibility": "Maintain scalable services and support cross-platform integration.",
+    "educational_requirements": "Bachelor’s in Software Engineering or related.",
+    "experiences": "3-5 years backend Java experience.",
+    "contact_information": {
+      "phone": "01960-66 77 88",
+      "email": "careers@spotify.com",
+      "address": "Tejgaon Industrial Area, Dhaka, Bangladesh"
+    }
+  }
+]
