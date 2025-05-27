@@ -18,20 +18,9 @@ const BlogDetails = () => {
           className="w-full h-80 object-cover object-top mt-4 rounded-lg"
         />
         <div className="sm:w-4/12 flex items-center">
-          <a href="#">
-            <img
-              className="w-10 h-10 rounded-full mr-2"
-              src="https://i.ibb.co.com/h25Mptp/abnahid.jpg"
-              alt={`Avatar of ${author}`}
-            />
-          </a>
+         
           <div className="text-xs">
-            <a
-              href="https://www.linkedin.com/in/ajnahid"
-              className="text-gray-900 font-medium leading-none hover:text-indigo-600"
-            >
-              {author}
-            </a>
+           <p>{author}</p>
             <p className="text-gray-600 text-xs">{date}</p>
           </div>
         </div>
