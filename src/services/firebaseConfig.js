@@ -2,13 +2,14 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-   apiKey: "AIzaSyCgimYJPX-KnOg82Vl7-NBC1FWst5q4cfw",
-  authDomain: "carrer-hub-1d709.firebaseapp.com",
-  projectId: "carrer-hub-1d709",
-  storageBucket: "carrer-hub-1d709.firebasestorage.app",
-  messagingSenderId: "1046797976831",
-  appId: "1:1046797976831:web:a205f3f1ccdf45479eb8ca"
+    apiKey: import.meta.env.VITE_apiKey,
+  authDomain: import.meta.env.VITE_authDomain,
+  projectId: import.meta.env.VITE_projectId,
+  storageBucket: import.meta.env.VITE_storageBucket,
+  messagingSenderId: import.meta.env.VITE_messagingSenderId,
+  appId: import.meta.env.VITE_appId,
 };
+console.log("API Key:", import.meta.env.VITE_apiKey);
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
